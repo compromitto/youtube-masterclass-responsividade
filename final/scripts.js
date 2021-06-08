@@ -5,7 +5,7 @@ const card = document.querySelector("div.card");
 
 const videos = [
   {
-    title: "Leve sua comunicação para o próximo nível",
+    title: "<h1>Leve sua comunicação para o próximo nível</H1>",
     duration: "Por meio do movimento #contribuicaodigital, nós estamos unindo os pequenos negócios que acreditam que o marketing digital é o principal meio para fugir dessa crise à agências e especialistas acostumados a ajudar negócios como o seu a vender mais por meio da internet. Serviço que antes talvez não fosse acessível para você, agora estará ao seu alcance por um valor muito abaixo do tradicional.",
     thumb: "https://i.ytimg.com/vi/GykTLqODQuU/hqdefault.jpg",
     video_id: "GykTLqODQuU"
