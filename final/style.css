@@ -148,7 +148,7 @@ CARDS
 }
 
 .card {
-  display: flex;
+  /* display: flex;*/
   flex-direction: column;
   background-color: #16365B;
   cursor: pointer;
