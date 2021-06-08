@@ -25,7 +25,7 @@ body {
 }
 
 header {
-  background-color: #7159c1;
+  background-color: #16365B;
 }
 
 header .container {
@@ -83,7 +83,7 @@ h3 {
   font-size: 1.6rem;
   font-weight: 600;
   color: rgb(255, 255, 255);
-  background-color: rgb(113, 89, 193);
+  background-color: rgb(21, 77, 151);
   margin: 15px 0px 0px;
   padding: 12px 30px;
   text-decoration: none;
@@ -150,7 +150,7 @@ CARDS
 .card {
   display: flex;
   flex-direction: column;
-  background-color: #7159c1;
+  background-color: #16365B;
   cursor: pointer;
   transition: all 0.3s ease 0s;
 
@@ -194,7 +194,7 @@ CARDS
   margin-left: auto;
   padding: 5px 20px;
   border-radius: 20px;
-  background-color: #7159c1;
+  background-color: #16365B;
   filter: brightness(90%);
 }
 
@@ -304,7 +304,7 @@ FORM
 #form {
   width:100%;
 
-  background: #7159c1;
+  background: #16365B;
   padding: 80px 0;
   margin:0;
 
